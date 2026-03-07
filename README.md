@@ -2055,39 +2055,39 @@ du -h ~/boost-libs/*
 ```
 <details>
   <summary>Вывод команды </summary>
-  4.5M    libboost_wave.a
-  2.7M    libboost_regex.a
-  2.7M    libboost_math_tr1l.a
-  2.7M    libboost_math_tr1.a
-  2.6M    libboost_math_tr1f.a
-  2.3M    libboost_unit_test_framework.a
-  2.3M    libboost_test_exec_monitor.a
-  2.0M    libboost_locale.a
-  1.6M    libboost_program_options.a
-  1.2M    libboost_serialization.a
-  848K    libboost_graph.a
-  796K    libboost_wserialization.a
-  544K    libboost_math_c99.a
-  464K    libboost_math_c99l.a
-  448K    libboost_math_c99f.a
-  416K    libboost_filesystem.a
-  332K    libboost_contract.a
-  284K    libboost_iostreams.a
-  236K    libboost_chrono.a
-  232K    libboost_fiber.a
-  212K    libboost_prg_exec_monitor.a
-  152K    libboost_date_time.a
-  148K    libboost_container.a
-  80K     libboost_random.a
-  56K     libboost_timer.a
-  24K     libboost_stacktrace_addr2line.a
-  24K     libboost_context.a
-  20K     libboost_stacktrace_backtrace.a
-  16K     libboost_stacktrace_basic.a
-  4.0K    libboost_system.a
-  4.0K    libboost_stacktrace_noop.a
-  4.0K    libboost_exception.a
-  4.0K    libboost_atomic.a
+  4.5M    libboost_wave.a <br>
+  2.7M    libboost_regex.a <br>
+  2.7M    libboost_math_tr1l.a <br>
+  2.7M    libboost_math_tr1.a <br>
+  2.6M    libboost_math_tr1f.a <br>
+  2.3M    libboost_unit_test_framework.a <br>
+  2.3M    libboost_test_exec_monitor.a <br>
+  2.0M    libboost_locale.a <br>
+  1.6M    libboost_program_options.a <br>
+  1.2M    libboost_serialization.a <br>
+  848K    libboost_graph.a <br>
+  796K    libboost_wserialization.a <br>
+  544K    libboost_math_c99.a <br>
+  464K    libboost_math_c99l.a <br>
+  448K    libboost_math_c99f.a <br>
+  416K    libboost_filesystem.a <br>
+  332K    libboost_contract.a <br>
+  284K    libboost_iostreams.a <br>
+  236K    libboost_chrono.a <br>
+  232K    libboost_fiber.a <br>
+  212K    libboost_prg_exec_monitor.a <br> 
+  152K    libboost_date_time.a <br>
+  148K    libboost_container.a <br>
+  80K     libboost_random.a <br>
+  56K     libboost_timer.a <br>
+  24K     libboost_stacktrace_addr2line.a <br>
+  24K     libboost_context.a <br>
+  20K     libboost_stacktrace_backtrace.a <br>
+  16K     libboost_stacktrace_basic.a <br>
+  4.0K    libboost_system.a <br>
+  4.0K    libboost_stacktrace_noop.a <br>
+  4.0K    libboost_exception.a <br>
+  4.0K    libboost_atomic.a <br>
 </details>
 
 ## Шаг 11
@@ -2102,15 +2102,15 @@ du -h ~/boost-libs/* | sort -hr | head -n 10
 ```
 <details>
   <summary>Вывод команды </summary>
-4.5M    /root/boost-libs/libboost_wave.a
-2.7M    /root/boost-libs/libboost_regex.a
-2.7M    /root/boost-libs/libboost_math_tr1l.a
-2.7M    /root/boost-libs/libboost_math_tr1.a
-2.6M    /root/boost-libs/libboost_math_tr1f.a
-2.3M    /root/boost-libs/libboost_unit_test_framework.a
-2.3M    /root/boost-libs/libboost_test_exec_monitor.a
-2.0M    /root/boost-libs/libboost_locale.a
-1.6M    /root/boost-libs/libboost_program_options.a
-1.2M    /root/boost-libs/libboost_serialization.a
+4.5M    /root/boost-libs/libboost_wave.a <br>
+2.7M    /root/boost-libs/libboost_regex.a <br>
+2.7M    /root/boost-libs/libboost_math_tr1l.a <br>
+2.7M    /root/boost-libs/libboost_math_tr1.a <br>
+2.6M    /root/boost-libs/libboost_math_tr1f.a <br>
+2.3M    /root/boost-libs/libboost_unit_test_framework.a <br>
+2.3M    /root/boost-libs/libboost_test_exec_monitor.a <br>
+2.0M    /root/boost-libs/libboost_locale.a <br>
+1.6M    /root/boost-libs/libboost_program_options.a <br>
+1.2M    /root/boost-libs/libboost_serialization.a <br>
 
 </details>
