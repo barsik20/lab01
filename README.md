@@ -2016,6 +2016,7 @@ grep -rl "boost::asio" ~/boost_1_69_0
 /root/boost_1_69_0/libs/fiber/examples/asio/autoecho.cpp
 /root/boost_1_69_0/libs/fiber/examples/asio/round_robin.hpp
 </details>
+
 ## Шаг 8
 
 Скомпилировать Boost
