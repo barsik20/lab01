@@ -2027,11 +2027,14 @@ cd ~/boost_1_69_0
 ./bootstrap.sh
 ./b2
 ```
-<detailes>
-    <summary>Вывод команды</summary>
-   Смотреть документ [Exersize 8]( https://github.com/ferdosiakrymskaa-svg/lab01/blob/f51a9456e28c619ee8dff5fdfe28d6b65dbcbb1a/Exercize%208 "Перейти к файлу Exersize 8")
- </details>
- ## Шаг 9
+
+<details>
+  <summary>Вывод команды </summary>
+ 
+Смотреть документ [Exersize 8]( https://github.com/ferdosiakrymskaa-svg/lab01/blob/f51a9456e28c619ee8dff5fdfe28d6b65dbcbb1a/Exercize%208 "Перейти к файлу Exersize 8")
+</details>
+
+## Шаг 9
  Перенос статических библиотек в ~/boost-libs
 Команды:
 
@@ -2085,6 +2088,7 @@ du -h ~/boost-libs/*
   4.0K    libboost_exception.a
   4.0K    libboost_atomic.a
 </details>
+
 ## Шаг 11
 Top-10 самых больших файлов
 
