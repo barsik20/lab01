@@ -168,7 +168,7 @@ find ~/boost_1_69_0 -maxdepth 1 -type f | wc -l
 
 <details>
   <summary>Вывод команды </summary>
-12
+17
 
 
 </details>
@@ -184,7 +184,7 @@ find ~/boost_1_69_0 -type f | wc -l
 
 <details>
   <summary>Вывод команды </summary>
-  61191
+  62116
 
 </details>
 
@@ -207,8 +207,8 @@ echo "Остальных: $other_count"
 <details>
   <summary>Вывод команды </summary>
   Заголовочных .hpp: 14912
-Файлов .cpp: 13774
-Остальных: 32505
+Файлов .cpp: 13786
+Остальных: 33418
 
 
 </details>
@@ -2032,7 +2032,7 @@ cd ~/boost_1_69_0
 <details>
   <summary>Вывод команды </summary>
  
-Смотреть документ [Exersize 8]( https://github.com/ferdosiakrymskaa-svg/lab01/blob/f51a9456e28c619ee8dff5fdfe28d6b65dbcbb1a/Exercize%208 "Перейти к файлу Exersize 8")
+Смотреть документ [Exersize 8]( https://github.com/barsik20/lab01/blob/main/Exersize%208 "Перейти к файлу Exersize 8")
 </details>
 
 ## Шаг 9
