@@ -64,7 +64,7 @@ export PATH=\${PATH}:`pwd`/node/bin
 EOF`:
 
 ```sh
-export PATH=${PATH}:/home/ilya_ilyasov/Ilya/workspace/node/bin
+export PATH=${PATH}:/root/barsik20/workspace/node/bin
 ```
 
 
