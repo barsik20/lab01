@@ -2032,7 +2032,7 @@ cd ~/boost_1_69_0
 <details>
   <summary>Вывод команды </summary>
  
-Смотреть документ [Exersize 8]( https://github.com/barsik20/lab01/blob/main/Exersize%208 "Перейти к файлу Exersize 8")
+Смотреть документ [Exersize 8]( https://github.com/barsik20/lab01/blob/main/Exercise "Перейти к файлу Exersize")
 </details>
 
 ## Шаг 9
